@@ -15,3 +15,9 @@
 ### ANEXOS
 
 <img width="354" height="344" alt="Image" src="https://github.com/user-attachments/assets/67419f70-846c-4985-b486-8b14f504c112" />
+
+```bash
+show ip route
+```
+
+C -> Directamente conectada
