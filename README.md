@@ -6,6 +6,9 @@
 
 <img width="1849" height="691" alt="Image" src="https://github.com/user-attachments/assets/af3bb158-adcd-46c6-a854-8b5bbcc835d5" />
 
-## CABLE DE FIBRA OPTICA
+## CONFIGURACION DE ENRUTAMIENTO ESTATICO (manualmente)
 
 <img width="354" height="344" alt="Image" src="https://github.com/user-attachments/assets/67419f70-846c-4985-b486-8b14f504c112" />
+
+
+## CONFIGURACION DE ENRUTAMIENTO DINAMICO (rip)
