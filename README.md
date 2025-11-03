@@ -10,7 +10,21 @@
 
 ## CONFIGURACION DE ENRUTAMIENTO DINAMICO (rip)
 
+<img width="1850" height="1024" alt="Image" src="https://github.com/user-attachments/assets/71aefa73-461f-4534-a275-bfa6cce19ccd" />
 
+Nota* En cada router se configura los direcciones de red que están conectados en su misma interfas, son los siguientes comandos: 
+
+```bash
+conf t
+router rip
+version 2
+no auto-summary
+network (redes conectadas - direciones de red)
+......
+```
+
+Analizamos los tablas de enrutamiendo con el comando show ip route: R -> RIP
+tracert, Ve el camino del paquete por todo los intermediados que pasa
 
 ### ANEXOS
 
