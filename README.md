@@ -23,8 +23,9 @@ network (redes conectadas - direciones de red)
 ......
 ```
 
-Analizamos los tablas de enrutamiendo con el comando show ip route: R -> RIP
-tracert, Ve el camino del paquete por todo los intermediados que pasa
+Analizamos los tablas de enrutamiendo con el comando **show ip route** : R -> RIP
+
+**tracert**, Ve el camino del paquete por todo los intermediados que pasa
 
 ### ANEXOS
 
